@@ -58,6 +58,7 @@ export class App extends Component {
         </header>
 
         <main>{octocatsFromData}</main>
+
         <footer>
           <div>
             <p>© 2013 – 2020 GitHub, Inc. All rights reserved.</p>
